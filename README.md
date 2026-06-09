@@ -1,4 +1,4 @@
-# 💧 High-Capacity Deep Reversible Watermarking via Discrete Latent Space Embedding
+# 💧 Learning Invertible Latent Embedding for High-Capacity Reversible Watermarking
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch">
