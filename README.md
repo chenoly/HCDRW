@@ -18,8 +18,7 @@
 
 This repository is the **official implementation** of the paper:
 
-> **High-Capacity Deep Reversible Watermarking via Discrete Latent Space Embedding**  
-> *Jiale Chen, Junnan Yin, Wei Wang, Chongyang Shi, Li Dong, Jiantao Zhou, Xiping Hu*
+> **Learning Invertible Latent Embedding for High-Capacity Reversible Watermarking**  
 
 **DLSE** is a deep learning based framework that achieves **high‑capacity reversible watermarking** with **end‑to‑end trainability**.  
 We migrate the embedding operation from the pixel domain to the **discrete latent space** of images using invertible network, and design two learnable mechanisms:
